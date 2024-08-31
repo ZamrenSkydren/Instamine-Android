@@ -2,19 +2,19 @@
 # Build by JDM-Buildozer
 
 # (str) Title of your application
-title = JDM-Template
+title = INSTAMINE
 
 # (str) Package name
-package.name = JDM_template
+package.name = Instamine
 
 # (str) Package domain (needed for android/ios packaging)
-package.domain = org.jdm.template
+package.domain = org.instamine
 
 # (str) Source code where the main.py live
 source.dir = .
 
 # (list) Source files to include (let empty to include all the files)
-source.include_exts = py,png,jpg,kv,atlas,ttf,mp3,json
+source.include_exts = py,png,jpg,kv,atlas,ttf,mp3,json,mp4
 
 # (list) List of inclusions using pattern matching
 # source.include_patterns = assets/*,images/*.png

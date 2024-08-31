@@ -1,14 +1,14 @@
 {
     "title": {
-        "Text": "JDM-Template",
+        "Text": "INSTAMINE",
         "Activate": true
     },
     "package.name": {
-        "Text": "JDM_template",
+        "Text": "Instamine",
         "Activate": true
     },
     "package.domain": {
-        "Text": "org.jdm.template",
+        "Text": "org.instamine",
         "Activate": true
     },
     "source.dir": {
@@ -16,7 +16,7 @@
         "Activate": true
     },
     "source.include_exts": {
-        "Text": "py,png,jpg,kv,atlas,ttf,mp3,json",
+        "Text": "py,png,jpg,kv,atlas,ttf,mp3,json,mp4",
         "Activate": true
     },
     "source.include_patterns": {
